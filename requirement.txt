@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+transformers
+selenium
+webdriver-manager
+beautifulsoup4
+readability-lxml
+python-dotenv
+pydrive
+

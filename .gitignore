@@ -1,0 +1,22 @@
+Secrets and Auth
+secrets.toml
+.env
+credentials.json
+token.json
+
+Dependencies and environment
+pycache/
+venv/
+*.pyc
+
+Operating system files
+.DS_Store
+Thumbs.db
+
+Scraping/Drivers
+msedgedriver.exe
+msedgedriver.log # Common log file for drivers
+
+Database and LLM/RAG files
+chroma_db/
+generated_summaries/
